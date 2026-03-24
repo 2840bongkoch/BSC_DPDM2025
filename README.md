@@ -156,6 +156,25 @@ and current data mining topics with case studies.
 [10 Cluster Basic](Slides/10ClusBasic.pdf)
 
 ---
+## 📑 สรุปเนื้อหาบทเรียน (Contents & Resources)
+
+<details open>
+<summary><b>📂 Click เพื่อดูเนื้อหาบทเรียนทั้งหมด</b></summary>
+<br>
+
+| บทที่ | หัวข้อ (Topics) | เอกสาร |
+| :---: | :--- | :---: |
+| **1** | **Introduction:** กระบวนการ KDD และมุมมองหลายมิติ | 📄 [Chapter 1](Slides/01IntroBongkoch.pdf) |
+| **2** | **Getting to Know Your Data:** สถิติพื้นฐาน & Visualization | 📄 [Chapter 2](Slides/02DataBongkoch.pdf) |
+| **3** | **Data Pre-processing:** Cleaning, Reduction & Transformation | 📄 [Chapter 3](Slides/03Preprocessingbongkoch.pdf) |
+| **6** | **Mining Frequent Patterns:** Association Rules (Apriori) | 📄 [Chapter 6](Slides/06FPBasicBk.pdf) |
+| **8** | **Classification:** Decision Tree & Model Evaluation | 📄 [Chapter 8](Slides/08ClassBasic.pdf) |
+| **9** | **Advanced Classification:** Bayesian & Naive Bayes | 📄 [Chapter 9](Slides/09ClassAdvanced.pdf) |
+| **10** | **Cluster Analysis:** K-Means, Hierarchical & DBSCAN | 📄 [Chapter 10](Slides/10ClusBasic.pdf) |
+
+</details>
+
+---
 
 ## 📝 งานปฏิบัติ (Homework & Quiz)
 * [X] **HW 3:** เติมข้อมูลในคอลัมน์ให้ครบ
