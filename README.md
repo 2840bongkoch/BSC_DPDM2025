@@ -27,7 +27,7 @@
       <b>🏫 มหาวิทยาลัย:</b> ขอนแก่น (KKU)<br>
       <br>
       <p align="left">
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/Academic-2025-blue?style=for-the-badge&logo=googlescholar">
         <img src="https://img.shields.io/badge/University-KKU-A73B24?style=for-the-badge&logo=icloud&logoColor=white">
       </p>
     </td>
