@@ -72,7 +72,7 @@ and current data mining topics with case studies.
 - ประวัติการพัฒนา
 
 📄 **สไลด์ประกอบ:**  
-[Chapter 1 Intro](https://drive.google.com/file/d/1PWvQ6Idv3qOUWUXhhPsidxYTuY_-b1xg/view?usp=drive_link)
+[Chapter 1 Intro](Slides/01IntroBongkoch.pdf)
 
 # บทที่ 2: การทำความรู้จักข้อมูล  (Getting to Know Your Data)
 
@@ -86,4 +86,67 @@ and current data mining topics with case studies.
   (Measuring Similarity & Dissimilarity)
   
 📄 **สไลด์ประกอบ:**  
-[Chapter 2 Data](https://drive.google.com/file/d/1wCHxlQb3qFPllPUkt-IRg0vZ0OqSrg3-/view?usp=drive_link)
+[Chapter 2 Data](Slides/02DataBongkoch.pdf)
+
+# บทที่ 3: การเตรียมข้อมูล (Data Pre-processing)
+
+เนื้อหา:
+- การทำความสะอาดข้อมูล (Data Cleaning): จัดการข้อมูลที่สูญหาย (Missing values) และข้อมูลรบกวน (Noise)
+- การรวมข้อมูล (Data Integration): การรวมข้อมูลจากหลายแหล่งและการจัดการข้อมูลที่ซ้ำซ้อน
+- การลดรูปข้อมูล (Data Reduction): การลดจำนวนมิติ (Dimensionality Reduction) เช่น PCA
+- การแปลงรูปข้อมูล (Data Transformation): การทำ Normalization และ Discretization
+
+📄 **สไลด์ประกอบ:**
+[Chapter 3 Pre-processing](Slides/03Preprocessingbongkoch.pdf)
+
+
+# บทที่ 6: การวิเคราะห์รูปแบบที่พบบ่อย (Mining Frequent Patterns & Association Rules)
+
+เนื้อหา:
+- แนวคิดพื้นฐานของการหา Frequent Itemsets
+- อัลกอริทึม Apriori
+- การสร้างกฎความสัมพันธ์ (Association Rules)
+- การวัดประสิทธิภาพ: Support, Confidence และ Lift
+
+📄 **สไลด์ประกอบ:** 
+[Chapter 6 Association Rules](Slides/06FPBasicBk.pdf)
+
+# บทที่ 8: การจำแนกประเภทข้อมูล (Classification)
+
+เนื้อหา:
+- แนวคิดพื้นฐานของการจำแนกประเภท (Classification Concepts)
+- การสร้างตัวแบบตัดสินใจ (Decision Tree Induction)
+- อัลกอริทึมอื่นๆ เช่น Naïve Bayes, Support Vector Machines (SVM)
+- การวัดประสิทธิภาพของตัวแบบ (Model Evaluation): Accuracy, Precision, Recall, F1-score
+
+📄 **สไลด์ประกอบ:** 
+[Chapter 8 Classification](Slides/08ClassBasic.pdf)
+
+# บทที่ 9: การจำแนกประเภทข้อมูลระดับสูง (Advanced Classification)
+
+เนื้อหา:
+- การจำแนกประเภทเชิงสถิติ (Bayesian Classification)
+- ตัวแบบการทำนายเชิงความน่าจะเป็น (Naive Bayes)
+- การวัดประสิทธิภาพตัวแบบขั้นสูง (Advanced Evaluation Metrics)
+- การปรับจูนพารามิเตอร์และการเลือกโมเดล
+
+📄 **สไลด์ประกอบ:** 
+[09 Class Advanced](Slides/09ClassAdvanced.pdf)
+
+# บทที่ 10: การวิเคราะห์การจัดกลุ่มข้อมูล (Cluster Analysis)
+
+เนื้อหา:
+- แนวคิดพื้นฐานและประเภทของการจัดกลุ่ม (Cluster Analysis: Basic Concepts)
+- อัลกอริทึมการแบ่งกลุ่ม (Partitioning Methods): K-Means
+- อัลกอริทึมการจัดกลุ่มตามลำดับชั้น (Hierarchical Methods)
+- การจัดกลุ่มตามความหนาแน่น (Density-Based Methods): DBSCAN
+- การประเมินผลการจัดกลุ่ม (Clustering Evaluation)
+
+📄 **สไลด์ประกอบ:** 
+[10 Cluster Basic](Slides/10ClusBasic.pdf)
+
+## 🛠️ เครื่องมือและภาษาที่ใช้ (Tools)
+- **Language:** Python 🐍
+- **Library:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Platform:** Google Colab / Jupyter Notebook
+- **Version Control:** GitHub
