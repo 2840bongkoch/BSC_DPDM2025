@@ -75,6 +75,9 @@ and current data mining topics with case studies.
 
 # 📑 เนื้อหา (Contents)
 
+<details open>
+<summary><b>📂 Click เพื่อดูเนื้อหาบทเรียนทั้งหมด</b></summary>
+<br>
 
 # บทที่ 1: บทนำสู่การทำเหมืองข้อมูล (Introduction)
 เนื้อหา:
@@ -154,6 +157,8 @@ and current data mining topics with case studies.
 
 📄 **สไลด์ประกอบ:**
 [10 Cluster Basic](Slides/10ClusBasic.pdf)
+
+</details>
 
 ---
 ## 📑 สรุปเนื้อหาบทเรียน (Contents & Resources)
