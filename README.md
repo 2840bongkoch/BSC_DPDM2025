@@ -1,7 +1,7 @@
 # 📘 SC663403 — การเตรียมข้อมูลและการทำเหมืองข้อมูล
 <p align="center">
   <img src="https://img.shields.io/badge/Academic-2025-blue?style=for-the-badge&logo=googlescholar">
-  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Framework-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn">
 </p>
 
@@ -84,8 +84,7 @@ and current data mining topics with case studies.
 - มุมมองแบบหลายมิติของ Data Mining  
 - ประวัติการพัฒนา
 
-📄 **สไลด์ประกอบ:**  
-[Chapter 1 Intro](Slides/01IntroBongkoch.pdf)
+📄 **สไลด์ประกอบ:**  [Chapter 1 Intro](Slides/01IntroBongkoch.pdf)
 
 # บทที่ 2: การทำความรู้จักข้อมูล  (Getting to Know Your Data)
 
@@ -159,21 +158,26 @@ and current data mining topics with case studies.
 ---
 
 ## 📝 งานปฏิบัติ (Homework & Quiz)
-* [ ] **HW 3:** 
-[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
-* [ ] **HW 4:** 
-[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
-* [ ] **Quiz 9:** 
-[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
-* [ ] **Quiz 11:** 
-[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
+* [X] **HW 3:** เติมข้อมูลในคอลัมน์ให้ครบ
+[HW3](CH3_Data_preprocessing.ipynb)
+* [X] **HW 4:** คำนวณมือหา Information Gain สร้าง Decision Tree
+[HW4](HW4.pdf)
+* [X] **Quiz 9:** คำนวณมือหาว่าการแบ่งแบบไหนได้ Information Gain ได้ดีที่สุด
+[Quiz 9](Quiz_9.ipynb)
+* [X] **Quiz 11:** เติมค่า defult ให้ได้ค่า Acuuracy มากที่สุด
+[Quiz 11](Ch5_Classification.ipynb)
+* [X] **Quiz 12 :** คำนวณมือหาโดยกำหนดค่า Input ในการหา Naive Bayes
+[Quiz 11](08ClassBasic.pdf)
 ---
 ## 📝 งานกลุ่ม (Project)
-* [ ] **Project Association:** [Group 4]
+* [X] **Project Association:** [Group 4]
   <p align="center">
   <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg"
 
-* [ ] **Project Model:** [Group 9]
+* [X] **Project Model:** [Group 9]
+  <p align="center">
+  <img src="Project/Project  DPBM 2025 (Group9) (1).jpg"
+
   <p align="center">
   <img src="Project/Project  DPBM 2025 (Group9).jpg"
 ---
