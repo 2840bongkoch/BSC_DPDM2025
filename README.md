@@ -171,13 +171,11 @@ and current data mining topics with case studies.
 ## 📝 งานกลุ่ม (Project)
 * [ ] **Project Association:** [Group 4]
   <p align="center">
-  <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg" width="200px" style="border-radius: 50%; border: 3px solid #7ed6df;">
-  <br>
-</p>
+  <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg"
+
 * [ ] **Project Model:** [Group 9]
   <p align="center">
-  <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg" width="200px" style="Project/Project  DPBM 2025 (Group9).jpg">
-  <br>
+  <img src="Project/Project  DPBM 2025 (Group9).jpg"
 ---
 
 ## 🛠️ เครื่องมือที่ใช้ในการเรียน (Technical Stack)
