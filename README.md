@@ -1,14 +1,27 @@
-# 📘 SC663403 — การเตรียมข้อมูลและการทำเหมืองข้อมูล  
+# 📘 SC663403 — การเตรียมข้อมูลและการทำเหมืองข้อมูล
+<p align="center">
+  <img src="https://img.shields.io/badge/Academic-2025-blue?style=for-the-badge&logo=googlescholar">
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Framework-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn">
+</p>
+
+---
+
+## 👤 ข้อมูลผู้จัดทำ (Owner)
+- **ชื่อ-นามสกุล:** นางสาวบงกช เจตวัน
+- **รหัสนักศึกษา:** 663020284-0
+- **สาขาวิชา:** สถิติและวิชาการข้อมูล
+- **วิชาเอก:** สารสนเทศสถิติและวิทยาการข้อมูล
 
 ---
 
 ## 📌 รายวิชา (Course Info)
 
-### **รหัสวิชา:** `SC663403`  
-### **ชื่อวิชา:** การเตรียมข้อมูลและการทำเหมืองข้อมูล  
-### **ชื่อภาษาอังกฤษ:** Data Pre-processing and Data Mining
-
----
+| รายละเอียด | ข้อมูล |
+| :--- | :--- |
+| **รหัสวิชา** | `SC663403` |
+| **ชื่อวิชา (TH)** | การเตรียมข้อมูลและการทำเหมืองข้อมูล |
+| **ชื่อวิชา (EN)** | Data Pre-processing and Data Mining |
 
 ## 📝 คำอธิบายรายวิชา (TH)
 
@@ -40,7 +53,7 @@ and current data mining topics with case studies.
 - Classification, Clustering, Association Analysis  
 - Model Evaluation  
 - Trend & Pattern Discovery  
-- Case Studies in Data Mining 
+- Case Studies in Data Mining
 
 ---
 
@@ -85,8 +98,7 @@ and current data mining topics with case studies.
 - การวัดความคล้ายและความแตกต่างของข้อมูล  
   (Measuring Similarity & Dissimilarity)
   
-📄 **สไลด์ประกอบ:**  
-[Chapter 2 Data](Slides/02DataBongkoch.pdf)
+📄 **สไลด์ประกอบ:**  [Chapter 2 Data](Slides/02DataBongkoch.pdf)
 
 # บทที่ 3: การเตรียมข้อมูล (Data Pre-processing)
 
@@ -96,8 +108,7 @@ and current data mining topics with case studies.
 - การลดรูปข้อมูล (Data Reduction): การลดจำนวนมิติ (Dimensionality Reduction) เช่น PCA
 - การแปลงรูปข้อมูล (Data Transformation): การทำ Normalization และ Discretization
 
-📄 **สไลด์ประกอบ:**
-[Chapter 3 Pre-processing](Slides/03Preprocessingbongkoch.pdf)
+📄 **สไลด์ประกอบ:** [Chapter 3 Pre-processing](Slides/03Preprocessingbongkoch.pdf)
 
 
 # บทที่ 6: การวิเคราะห์รูปแบบที่พบบ่อย (Mining Frequent Patterns & Association Rules)
@@ -108,7 +119,7 @@ and current data mining topics with case studies.
 - การสร้างกฎความสัมพันธ์ (Association Rules)
 - การวัดประสิทธิภาพ: Support, Confidence และ Lift
 
-📄 **สไลด์ประกอบ:** 
+📄 **สไลด์ประกอบ:**
 [Chapter 6 Association Rules](Slides/06FPBasicBk.pdf)
 
 # บทที่ 8: การจำแนกประเภทข้อมูล (Classification)
@@ -119,7 +130,7 @@ and current data mining topics with case studies.
 - อัลกอริทึมอื่นๆ เช่น Naïve Bayes, Support Vector Machines (SVM)
 - การวัดประสิทธิภาพของตัวแบบ (Model Evaluation): Accuracy, Precision, Recall, F1-score
 
-📄 **สไลด์ประกอบ:** 
+📄 **สไลด์ประกอบ:**
 [Chapter 8 Classification](Slides/08ClassBasic.pdf)
 
 # บทที่ 9: การจำแนกประเภทข้อมูลระดับสูง (Advanced Classification)
@@ -130,7 +141,7 @@ and current data mining topics with case studies.
 - การวัดประสิทธิภาพตัวแบบขั้นสูง (Advanced Evaluation Metrics)
 - การปรับจูนพารามิเตอร์และการเลือกโมเดล
 
-📄 **สไลด์ประกอบ:** 
+📄 **สไลด์ประกอบ:**
 [09 Class Advanced](Slides/09ClassAdvanced.pdf)
 
 # บทที่ 10: การวิเคราะห์การจัดกลุ่มข้อมูล (Cluster Analysis)
@@ -142,11 +153,42 @@ and current data mining topics with case studies.
 - การจัดกลุ่มตามความหนาแน่น (Density-Based Methods): DBSCAN
 - การประเมินผลการจัดกลุ่ม (Clustering Evaluation)
 
-📄 **สไลด์ประกอบ:** 
+📄 **สไลด์ประกอบ:**
 [10 Cluster Basic](Slides/10ClusBasic.pdf)
 
-## 🛠️ เครื่องมือและภาษาที่ใช้ (Tools)
-- **Language:** Python 🐍
-- **Library:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Platform:** Google Colab / Jupyter Notebook
-- **Version Control:** GitHub
+---
+
+## 📝 งานปฏิบัติ (Homework & Quiz)
+* [ ] **HW 3:** 
+[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
+* [ ] **HW 4:** 
+[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
+* [ ] **Quiz 9:** 
+[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
+* [ ] **Quiz 11:** 
+[HW3](dda2c6b8b80ad39c2d3f7e8882083e7c72db4f8d)
+---
+## 📝 งานกลุ่ม (Project)
+* [ ] **Project Association:** [Group 4]
+  <p align="center">
+  <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg" width="200px" style="border-radius: 50%; border: 3px solid #7ed6df;">
+  <br>
+</p>
+* [ ] **Project Model:** [Group 9]
+  <p align="center">
+  <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg" width="200px" style="Project/Project  DPBM 2025 (Group9).jpg">
+  <br>
+---
+
+## 🛠️ เครื่องมือที่ใช้ในการเรียน (Technical Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+<p align="center">© 2025 | จัดทำเพื่อรายวิชา SC663403 การเตรียมข้อมูลและการทำเหมืองข้อมูล</p>
