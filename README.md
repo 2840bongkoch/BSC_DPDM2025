@@ -106,7 +106,7 @@ and current data mining topics with case studies.
 - มุมมองแบบหลายมิติของ Data Mining  
 - ประวัติการพัฒนา
 
-📄 **สไลด์ประกอบ:**  [Chapter 1 Intro](Slides/01IntroBongkoch.pdf)
+📄 **สไลด์ประกอบ:**  [Chapter 1 Intro](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/01Intro%20Bongkoch.pdf)
 
 # บทที่ 2: การทำความรู้จักข้อมูล  (Getting to Know Your Data)
 
@@ -119,7 +119,7 @@ and current data mining topics with case studies.
 - การวัดความคล้ายและความแตกต่างของข้อมูล  
   (Measuring Similarity & Dissimilarity)
   
-📄 **สไลด์ประกอบ:**  [Chapter 2 Data](Slides/02DataBongkoch.pdf)
+📄 **สไลด์ประกอบ:**  [Chapter 2 Data](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/02Data%20Bongkoch.pdf)
 
 # บทที่ 3: การเตรียมข้อมูล (Data Pre-processing)
 
@@ -129,7 +129,7 @@ and current data mining topics with case studies.
 - การลดรูปข้อมูล (Data Reduction): การลดจำนวนมิติ (Dimensionality Reduction) เช่น PCA
 - การแปลงรูปข้อมูล (Data Transformation): การทำ Normalization และ Discretization
 
-📄 **สไลด์ประกอบ:** [Chapter 3 Pre-processing](Slides/03Preprocessingbongkoch.pdf)
+📄 **สไลด์ประกอบ:** [Chapter 3 Pre-processing](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/03Preprocessing%20bongkoch.pdf)
 
 
 # บทที่ 6: การวิเคราะห์รูปแบบที่พบบ่อย (Mining Frequent Patterns & Association Rules)
@@ -141,7 +141,7 @@ and current data mining topics with case studies.
 - การวัดประสิทธิภาพ: Support, Confidence และ Lift
 
 📄 **สไลด์ประกอบ:**
-[Chapter 6 Association Rules](Slides/06FPBasicBk.pdf)
+[Chapter 6 Association Rules](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/06FPBasic%20Bk.pdf)
 
 # บทที่ 8: การจำแนกประเภทข้อมูล (Classification)
 
@@ -152,7 +152,7 @@ and current data mining topics with case studies.
 - การวัดประสิทธิภาพของตัวแบบ (Model Evaluation): Accuracy, Precision, Recall, F1-score
 
 📄 **สไลด์ประกอบ:**
-[Chapter 8 Classification](Slides/08ClassBasic.pdf)
+[Chapter 8 Classification](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/08ClassBasic.pdf)
 
 # บทที่ 9: การจำแนกประเภทข้อมูลระดับสูง (Advanced Classification)
 
@@ -163,7 +163,7 @@ and current data mining topics with case studies.
 - การปรับจูนพารามิเตอร์และการเลือกโมเดล
 
 📄 **สไลด์ประกอบ:**
-[09 Class Advanced](Slides/09ClassAdvanced.pdf)
+[09 Class Advanced](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/09ClassAdvanced.pdf)
 
 # บทที่ 10: การวิเคราะห์การจัดกลุ่มข้อมูล (Cluster Analysis)
 
@@ -175,7 +175,7 @@ and current data mining topics with case studies.
 - การประเมินผลการจัดกลุ่ม (Clustering Evaluation)
 
 📄 **สไลด์ประกอบ:**
-[10 Cluster Basic](Slides/10ClusBasic.pdf)
+[10 Cluster Basic](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/10ClusBasic.pdf)
 
 </details>
 
@@ -189,12 +189,12 @@ and current data mining topics with case studies.
 | บทที่ | หัวข้อ (Topics) | เอกสาร |
 | :---: | :--- | :---: |
 | **1** | **Introduction:** กระบวนการ KDD และมุมมองหลายมิติ | 📄 [Chapter 1](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/01Intro%20Bongkoch.pdf) |
-| **2** | **Getting to Know Your Data:** สถิติพื้นฐาน & Visualization | 📄 [Chapter 2](Slides/02DataBongkoch.pdf) |
-| **3** | **Data Pre-processing:** Cleaning, Reduction & Transformation | 📄 [Chapter 3](Slides/03Preprocessingbongkoch.pdf) |
-| **6** | **Mining Frequent Patterns:** Association Rules (Apriori) | 📄 [Chapter 6](Slides/06FPBasicBk.pdf) |
-| **8** | **Classification:** Decision Tree & Model Evaluation | 📄 [Chapter 8](Slides/08ClassBasic.pdf) |
-| **9** | **Advanced Classification:** Bayesian & Naive Bayes | 📄 [Chapter 9](Slides/09ClassAdvanced.pdf) |
-| **10** | **Cluster Analysis:** K-Means, Hierarchical & DBSCAN | 📄 [Chapter 10](Slides/10ClusBasic.pdf) |
+| **2** | **Getting to Know Your Data:** สถิติพื้นฐาน & Visualization | 📄 [Chapter 2](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/02Data%20Bongkoch.pdf) |
+| **3** | **Data Pre-processing:** Cleaning, Reduction & Transformation | 📄 [Chapter 3](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/03Preprocessing%20bongkoch.pdf) |
+| **6** | **Mining Frequent Patterns:** Association Rules (Apriori) | 📄 [Chapter 6](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/06FPBasic%20Bk.pdf) |
+| **8** | **Classification:** Decision Tree & Model Evaluation | 📄 [Chapter 8](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/08ClassBasic.pdf) |
+| **9** | **Advanced Classification:** Bayesian & Naive Bayes | 📄 [Chapter 9](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/09ClassAdvanced.pdf) |
+| **10** | **Cluster Analysis:** K-Means, Hierarchical & DBSCAN | 📄 [Chapter 10](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/10ClusBasic.pdf) |
 
 </details>
 
