@@ -188,7 +188,7 @@ and current data mining topics with case studies.
 
 | บทที่ | หัวข้อ (Topics) | เอกสาร |
 | :---: | :--- | :---: |
-| **1** | **Introduction:** กระบวนการ KDD และมุมมองหลายมิติ | 📄 [Chapter 1](Slides/01IntroBongkoch.pdf) |
+| **1** | **Introduction:** กระบวนการ KDD และมุมมองหลายมิติ | 📄 [Chapter 1](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Slides/01Intro%20Bongkoch.pdf) |
 | **2** | **Getting to Know Your Data:** สถิติพื้นฐาน & Visualization | 📄 [Chapter 2](Slides/02DataBongkoch.pdf) |
 | **3** | **Data Pre-processing:** Cleaning, Reduction & Transformation | 📄 [Chapter 3](Slides/03Preprocessingbongkoch.pdf) |
 | **6** | **Mining Frequent Patterns:** Association Rules (Apriori) | 📄 [Chapter 6](Slides/06FPBasicBk.pdf) |
@@ -207,17 +207,17 @@ and current data mining topics with case studies.
 [HW4](HW4.pdf)
 * [X] **Quiz 9:** คำนวณมือหาว่าการแบ่งแบบไหนได้ Information Gain ได้ดีที่สุด
 [Quiz 9](Quiz_9.ipynb)
-* [X] **Quiz 11:** เติมค่า defult ให้ได้ค่า Acuuracy มากที่สุด
+* [X] **Quiz 11:** เติมค่า defult ให้ได้ค่า Accuracy มากที่สุด
 [Quiz 11](Ch5_Classification.ipynb)
 * [X] **Quiz 12 :** คำนวณมือหาโดยกำหนดค่า Input ในการหา Naive Bayes
 [Quiz 11](08ClassBasic.pdf)
 ---
 ## 📝 งานกลุ่ม (Project)
-* [X] **Project Association:** [Group 4]
+* [X] **Project Association:** [Group 4](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Project/Indian%20Movies%20Group4-BSC%20DPDM2025%20.pdf)
   <p align="center">
   <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg"
 
-* [X] **Project Model:** [Group 9]
+* [X] **Project Model:** [Group 9](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Project/Project%20%20DPBM%202025%20(Group9)%20(1).jpg)
   <p align="center">
   <img src="Project/Project  DPBM 2025 (Group9) (1).jpg"
 
