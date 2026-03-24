@@ -12,19 +12,22 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="220">
-      <img src="Project/997fd5e4-60bd-4c00-bfa0-35bcdf77504b.jpg" width="150px" style="border-radius: 50%; border: 4px solid #00d2d3;"/><br><br>
+    <td align="center" width="220" style="vertical-align: middle;">
+      <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; border: 4px solid #00d2d3; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px auto;">
+        <img src="Project/997fd5e4-60bd-4c00-bfa0-35bcdf77504b.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+      </div>
+      <br>
       <b>นางสาวบงกช เจตวัน</b><br>
       <code>ID: 663020284-0</code>
     </td>
-    <td>
-      <br>
+    <td style="vertical-align: middle; padding-left: 20px;">
       <b>🎓 คณะ:</b> วิทยาศาสตร์ (Science)<br>
       <b>📂 สาขา:</b> สถิติและวิทยาการข้อมูล<br>
       <b>🎯 วิชาเอก:</b> สารสนเทศสถิติและวิทยาการข้อมูล<br>
-      <b>🏫 คณะ:</b> วิทยาศาสตร์ (Science)<br>
+      <b>🏫 มหาวิทยาลัย:</b> ขอนแก่น (KKU)<br>
+      <br>
       <p align="left">
-        <img src="https://img.shields.io/badge/Academic-2025-blue?style=for-the-badge&logo=googlescholar">
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=github">
         <img src="https://img.shields.io/badge/University-KKU-A73B24?style=for-the-badge&logo=icloud&logoColor=white">
       </p>
     </td>
@@ -213,11 +216,11 @@ and current data mining topics with case studies.
 [Quiz 11](08ClassBasic.pdf)
 ---
 ## 📝 งานกลุ่ม (Project)
-* [X] **Project Association:** [Group 4](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Project/Indian%20Movies%20Group4-BSC%20DPDM2025%20.pdf)
+* [X] **Project Association:** [Group 4](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Project/Indian%20Movies%20Group4-BSC%20DPDM2025%20_compressed.pdf)
   <p align="center">
   <img src="Project/Indian Movies Group4-BSC DPDM2025 .jpg"
 
-* [X] **Project Model:** [Group 9](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Project/Project%20%20DPBM%202025%20(Group9)%20(1).jpg)
+* [X] **Project Model:** [Group 9](https://github.com/2840bongkoch/BSC_DPDM2025/blob/main/Project/Project%20%20DPBM%202025%20(Group9)%20(2)_compressed.pdf)
   <p align="center">
   <img src="Project/Project  DPBM 2025 (Group9) (1).jpg"
 
