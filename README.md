@@ -7,11 +7,30 @@
 
 ---
 
-## 👤 ข้อมูลผู้จัดทำ (Owner)
-- **ชื่อ-นามสกุล:** นางสาวบงกช เจตวัน
-- **รหัสนักศึกษา:** 663020284-0
-- **สาขาวิชา:** สถิติและวิชาการข้อมูล
-- **วิชาเอก:** สารสนเทศสถิติและวิทยาการข้อมูล
+## 👤 ข้อมูลผู้จัดทำ (Owner Profile)
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="220">
+      <img src="Project/997fd5e4-60bd-4c00-bfa0-35bcdf77504b.jpg" width="150px" style="border-radius: 50%; border: 4px solid #00d2d3;"/><br><br>
+      <b>นางสาวบงกช เจตวัน</b><br>
+      <code>ID: 663020284-0</code>
+    </td>
+    <td>
+      <br>
+      <b>🎓 คณะ:</b> วิทยาศาสตร์ (Science)<br>
+      <b>📂 สาขา:</b> สถิติและวิทยาการข้อมูล<br>
+      <b>🎯 วิชาเอก:</b> สารสนเทศสถิติและวิทยาการข้อมูล<br>
+      <b>🏫 คณะ:</b> วิทยาศาสตร์ (Science)<br>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Academic-2025-blue?style=for-the-badge&logo=googlescholar">
+        <img src="https://img.shields.io/badge/University-KKU-A73B24?style=for-the-badge&logo=icloud&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
